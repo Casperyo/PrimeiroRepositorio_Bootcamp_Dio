@@ -1,0 +1,14 @@
+<html>
+<head> 
+<title> Anotações da aula estrutura de dados
+</head>
+<body>
+Vetores e Matrizes
+Registros
+Listas
+Pilhas
+Filas
+Árvores
+Tabelas hash
+Grafos
+</html>
