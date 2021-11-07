@@ -1,0 +1,6 @@
+Git Bash - terminal extendido para otimizar o uso do Git.
+Comandos iniciais: 
+git clone
+git status
+git add .
+git commit -m ""
